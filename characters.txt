@@ -2,4 +2,5 @@ characters in the story are:
 
 Monkey,
 croc,
-croc wife
+croc wife,
+tree full of mangoes
